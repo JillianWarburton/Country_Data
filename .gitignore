@@ -1,0 +1,13 @@
+# add files to ignore here
+
+.ipynb_checkpoints
+broadband.csv
+education_expenditures.csv
+gini_index.csv
+infant_mortality.csv
+internet_users.csv
+maternal_mortality.csv
+unemployment.csv
+coding_drafts.ipynb
+
+##
