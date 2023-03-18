@@ -1,7 +1,7 @@
 # README
 
 This repository contains python code for collecting country comparison data from the CIA World Factbook.
-See this [blog post](empty link) for more details.
+See this [blog post](https://jillianwarburton.github.io/my386blog/2023/03/16/Blog3a.html) for more details.
 
 The contents of this repository are as follows:
 
